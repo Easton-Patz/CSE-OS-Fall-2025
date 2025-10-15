@@ -28,6 +28,7 @@ git commit -m "Add team firstname of member1-firstname of member2 initial submis
 git push origin add-team-firstname of member1-firstname of member2
 ```
 6. On GitHub, open a Pull Request (PR) from your branch to the main branch of the main repository.
+
    Open a Pull Request (PR) on GitHub:
    1) Go to your own github repository page.
    2) Click “Compare & pull request”.
